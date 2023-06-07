@@ -2,7 +2,7 @@
 
 ## Attribute Based Pricing
 
-The `AttributeBasedPricing.zip` contains the following Apex Classes:
+The `AttributeBasedPricing.zip` is available under the AttributeBasedPricing folder and contains the following Apex Classes:
 - PricingPlanHelper
 - CustomPricingPlanStempImpl
 - CustomPricingPlanStempImplTest
