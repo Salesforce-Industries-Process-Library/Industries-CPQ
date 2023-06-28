@@ -6,6 +6,10 @@ The `AttributeBasedPricing.zip` contains the following Apex Classes:
 - PricingPlanHelper
 - CustomPricingPlanStempImpl
 - CustomPricingPlanStempImplTest
+- AttributeMatrixInfoCacheBatch
+- AttributeMatrixInfoCacheBatchTest
+- CpqNextPricingPlanHelper
+- CpqNextPricingPlanHelperTest
 
 Follow the below steps to deploy the `AttributeBasedPricing.zip` in an Org:
 
