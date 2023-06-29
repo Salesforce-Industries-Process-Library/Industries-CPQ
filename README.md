@@ -1,6 +1,6 @@
 # Industries-CPQ
 
-Information and downloads for additional processes for Communications Cloud are organized in branches as seasonal releases. 
+Information and downloads for additional Industries CPQ processes are organized in seasonal release branches.
 
 1. Review the [list of branches](https://github.com/Salesforce-Industries-Process-Library/Communications-CPQ/branches).
 2. Click a branch to see its contents. Each branch has one or more features.
