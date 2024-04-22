@@ -7,5 +7,5 @@ Information and downloads for additional Industries CPQ processes are organized 
 3. Review the README for contents for each download and instructions if applicable.
 
 Branch content:
-- **Summer-23 —** Attribute-based pricing (Summer '23 release with enhancements and BRE support).
+- **Summer-23 Onwards —** Attribute-based pricing (Summer '23 Onwards release with enhancements and BRE support).
 - **Spring-23 —** Attribute-based pricing (Older version prior to the Summer '23 release).
